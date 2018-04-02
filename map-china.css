@@ -1,0 +1,158 @@
+.map-china{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.map-china .province{
+  position: absolute;
+}
+.map-china .province.bj{
+  font-size: 31%;
+  left: 66.6%;
+  top: 36.86%;
+}
+.map-china .province.hb{
+  font-size: 132%;
+  left: 61.9%;
+  top: 31.6%;
+}
+.map-china .province.sd{
+  font-size: 120%;
+  left: 66.1%;
+  top: 39.7%;
+}
+.map-china .province.sx{
+  font-size: 125.8%;
+  left: 56%;
+  top: 36.8%;
+}
+.map-china .province.ln{
+  font-size: 102%;
+  left: 71.5%;
+  top: 27.8%;
+}
+.map-china .province.im{
+  font-size: 385.5%;
+  left: 40.5%;
+  top: -3.8%;
+}
+.map-china .province.hlj{
+  font-size: 186%;
+  left: 72.5%;
+  top: 1.2%;
+}
+.map-china .province.jl{
+  font-size: 140%;
+  left: 74.5%;
+  top: 18.2%;
+}
+.map-china .province.snx{
+  font-size: 153.9%;
+  left: 48.5%;
+  top: 40.4%;
+}
+.map-china .province.hn{
+  font-size: 108%;
+  left: 59%;
+  top: 48.2%;
+}
+.map-china .province.ah{
+  font-size: 100%;
+  left: 65.7%;
+  top: 53.2%;
+}
+.map-china .province.js{
+  font-size: 100%;
+  left: 68.5%;
+  top: 50.5%;
+}
+.map-china .province.zj{
+  font-size: 86%;
+  left: 72.2%;
+  top: 60.5%;
+}
+.map-china .province.hub{
+  font-size: 131%;
+  left: 56.1%;
+  top: 53.8%;
+}
+.map-china .province.nx{
+  font-size: 81%;
+  left: 48.6%;
+  top: 41%;
+}
+.map-china .province.gs{
+  font-size: 245.5%;
+  left: 32.5%;
+  top: 27.1%;
+}
+.map-china .province.qh{
+  font-size: 219%;
+  left: 26.4%;
+  top: 33.7%;
+}
+.map-china .province.xj{
+  font-size: 345.8%;
+  left: 5.7%;
+  top: 3.7%;
+}
+.map-china .province.tb{
+  font-size: 326%;
+  left: 8.6%;
+  top: 32.8%;
+}
+.map-china .province.sc{
+  font-size: 185%;
+  left: 38.4%;
+  top: 51.4%;
+}
+.map-china .province.yn{
+  font-size: 164%;
+  left: 36.2%;
+  top: 66.1%;
+}
+.map-china .province.gz{
+  font-size: 101.6%;
+  left: 48.1%;
+  top: 67.1%;
+}
+.map-china .province.cq{
+  font-size: 83.9%;
+  left: 51.1%;
+  top: 60%;
+}
+.map-china .province.gx{
+  font-size: 131%;
+  left: 49.4%;
+  top: 72.8%;
+}
+.map-china .province.hun{
+  font-size: 107.4%;
+  left: 56.1%;
+  top: 65.5%;
+}
+.map-china .province.jx{
+  font-size: 112%;
+  left: 63.6%;
+  top: 65%;
+}
+.map-china .province.fj{
+  font-size: 100%;
+  left: 68.1%;
+  top: 69.4%;
+}
+.map-china .province.gd{
+  font-size: 132%;
+  left: 58.4%;
+  top: 75.2%;
+}
+.map-china .province.han{
+  font-size: 46%;
+  left: 56.4%;
+  top: 91.2%;
+}
+.map-china .province.tw{
+  font-size: 66%;
+  left: 75.4%;
+  top: 77%;
+}
