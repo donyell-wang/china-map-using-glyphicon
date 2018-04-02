@@ -1,6 +1,6 @@
 ## China Map in CSS
 The CSS map of China, no SVG, no dependencies.
-only CSS and icon-font from ![Mapglyphs-China](https://github.com/francis-liberty/Mapglyphs-China)
+only CSS and icon-font from [Mapglyphs-China](https://github.com/francis-liberty/Mapglyphs-China)
 
 NOTE: In most situation, this is not your good choice to draw a map. Might be useful for those looking for a pure CSS map without SVG or other dependencies.
 
